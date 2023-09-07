@@ -3,8 +3,8 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/Mubin19/Movie-Recommenation-System/">
-   <img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.insidehighered.com%2Fsites%2Fdefault%2Ffiles%2Fmedia%2FGettyImages-1198430065.jpg&tbnid=nyFsVZ5PC6tnkM&vet=12ahUKEwiv-qjYkpmBAxXemmMGHfV-Bw4QMygCegQIARB6..i&imgrefurl=https%3A%2F%2Fwww.insidehighered.com%2Fviews%2F2022%2F11%2F14%2Foptional-attendance-policies-ill-serve-students-opinion&docid=gJcwoqot9jftLM&w=1200&h=1200&q=attendance&ved=2ahUKEwiv-qjYkpmBAxXemmMGHfV-Bw4QMygCegQIARB6"/>
+  <a href="https://github.com/Mubin19/Student-Attendance-Tracker">
+   <img src=" https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.clipartmax.com%2Fpng%2Fmiddle%2F436-4361431_marks-student-icon-icon-search-engine-student-attendance-system-logo.png&tbnid=IGpBenHet7umdM&vet=12ahUKEwidg829lZmBAxVnz6ACHTw4CTwQMygPegUIARCaAQ..i&imgrefurl=https%3A%2F%2Fwww.clipartmax.com%2Fmiddle%2Fm2H7d3K9m2d3K9i8_marks-student-icon-icon-search-engine-student-attendance-system-logo%2F&docid=lKqyj4C9wpBlCM&w=840&h=449&q=attendance%20logo&hl=en&ved=2ahUKEwidg829lZmBAxVnz6ACHTw4CTwQMygPegUIARCaAQ  "/>
   </a>
 
   <h1 align="center"> Student Attendance Tracker </h1>
